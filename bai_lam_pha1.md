@@ -1,4 +1,4 @@
-# ĐÁP ÁN MẪU PHA 1
+
 
 - **Họ tên:** NGUYỄN ĐỨC GIA HUY 
 - **Lớp:** CNTT2
