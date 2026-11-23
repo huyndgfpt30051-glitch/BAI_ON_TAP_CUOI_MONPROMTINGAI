@@ -1,7 +1,7 @@
-# ĐÁP ÁN MẪU PHA 2
 
-- **Họ tên:** Đáp án mẫu
-- **Lớp:** —
+
+- **Họ tên:**NGUYỄN ĐỨC GIA HUY 
+- **Lớp:** CNTT2 
 - **Link repository Pha2:** —
 - **Công cụ AI đã dùng:** Codex (đáp án tham khảo tổng hợp)
 
