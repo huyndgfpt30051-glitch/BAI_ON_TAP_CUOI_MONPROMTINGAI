@@ -1,7 +1,7 @@
 # ĐÁP ÁN MẪU PHA 1
 
-- **Họ tên:** Đáp án mẫu
-- **Lớp:** —
+- **Họ tên:** NGUYỄN ĐỨC GIA HUY 
+- **Lớp:** CNTT2
 - **Link repository Pha1:** —
 
 ## 4.1. Bảo vệ dữ liệu và chống ảo giác
